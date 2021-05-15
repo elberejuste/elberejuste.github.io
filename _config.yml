@@ -28,7 +28,7 @@ twitter_username: elberejuste
 github_username:  elberejuste
 
 # Build settings
-theme: minimal
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
