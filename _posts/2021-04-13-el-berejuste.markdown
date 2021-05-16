@@ -6,4 +6,4 @@ categories: misc
 ---
 # ¿Qué es El Berejuste?
 
-Esto comezó como un podcast, pero hoy puede ser cualquier cosa.
+Esto comenzó como un podcast, pero hoy puede ser cualquier cosa.
